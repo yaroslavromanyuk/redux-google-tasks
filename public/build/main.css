@@ -1,0 +1,8 @@
+* {
+  outline: none !important;
+}
+
+a {
+  text-decoration: none !important;
+  color: rgb(51, 51, 51);
+}
